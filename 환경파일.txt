@@ -1,0 +1,3 @@
+Vision Pro 9.0 64bit
+Pylon Viewer 4.0.2.3531 64bit
+PCI 7230 64bit

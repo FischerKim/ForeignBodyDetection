@@ -1,0 +1,17 @@
+RECIPE,INDEX,DESCRIPTION,ENABLED,POLARITY,THRESHOLD_TYPE,THRESHOLD_VALUE,OFFSET,MIN_SIZE,IO,ALIGNMENT_TARGET,ALIGNMENT_INDEX,ALIGNMENT_SOURCE,FOLLOW_MD,FOLLOW_CD,ROI_KIND,ROI_VALUE_COUNT,ROI_VALUE0,ROI_VALUE1,ROI_VALUE2,ROI_VALUE3,ROI_VALUE4,ROI_VALUE5,ROI_VALUE6,ROI_VALUE7,ROI_VALUE8,ROI_VALUE9,ROI_VALUE10,ROI_VALUE11,ROI_VALUE12,ROI_VALUE13,ROI_VALUE14,ROI_VALUE15,ROI_VALUE16,ROI_VALUE17,ROI_VALUE18,ROI_VALUE19,ROI_VALUE20,ROI_VALUE21,ROI_VALUE22,ROI_VALUE23,ROI_VALUE24,ROI_VALUE25,ROI_VALUE26,ROI_VALUE27,ROI_VALUE28,ROI_VALUE29,ROI_VALUE30,ROI_VALUE31,ROI_VALUE32,ROI_VALUE33,ROI_VALUE34,ROI_VALUE35,ROI_VALUE36,ROI_VALUE37,ROI_VALUE38,ROI_VALUE39
+STRING,INT,STRING,BOOL,STRING,STRING,INT,INT,INT,STRING,STRING,STRING,STRING,STRING,STRING,STRING,INT,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE,DOUBLE
+1,1,,True,DarkBlobs,Fixed,100,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,1012.29714285714,409.6,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,3,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,4,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,5,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,6,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,7,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,8,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,9,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,10,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,11,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,12,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,13,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,14,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,15,,False,DarkBlobs,Histogram,30,10,10,없음,없음,없음,없음,없음,없음,Rectangle,4,0,0,200,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
